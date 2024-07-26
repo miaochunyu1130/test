@@ -2,4 +2,6 @@
 #define __MIAO_H
 
 
+void printfx();
+
 #endif
